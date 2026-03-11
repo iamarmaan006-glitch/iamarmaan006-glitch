@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋 I'm Arman
 
-<!--
-**iamarmaan006-glitch/iamarmaan006-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Machine Learning Learner from India
 
-Here are some ideas to get you started:
+I am passionate about building intelligent systems using **Python and Machine Learning**.  
+Currently working on real-world ML projects and improving my AI development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Machine Learning & Deep Learning**
+- 💻 Building **AI and Data Science Projects**
+- 📊 Exploring **Data Analysis and Predictive Models**
+- 🚀 Interested in **Artificial Intelligence and NLP**
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Data Visualization
+
+---
+
+## 🚀 Projects
+
+Here are some of my projects:
+
+- 📊 **Logistic Regression ML App**
+- 🌧 **Rain Prediction System**
+- 📈 **Stock Price Predictor**
+- 🌳 **Decision Tree ML App**
+
+More projects coming soon!
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- NLP
+- Model Deployment
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ armaan-rawat-b00336398
+  
+
+---
+
+⭐ **Thank you for visiting my profile!**
